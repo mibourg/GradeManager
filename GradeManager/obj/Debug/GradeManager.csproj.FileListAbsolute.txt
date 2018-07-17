@@ -1,0 +1,12 @@
+C:\Users\Michel\Desktop\Code\C#\GradeManager\GradeManager\bin\Debug\GradeManager.exe.config
+C:\Users\Michel\Desktop\Code\C#\GradeManager\GradeManager\bin\Debug\GradeManager.exe
+C:\Users\Michel\Desktop\Code\C#\GradeManager\GradeManager\bin\Debug\GradeManager.pdb
+C:\Users\Michel\Desktop\Code\C#\GradeManager\GradeManager\obj\Debug\GradeManager.csprojResolveAssemblyReference.cache
+C:\Users\Michel\Desktop\Code\C#\GradeManager\GradeManager\obj\Debug\GradeManager.ClassManagementForm.resources
+C:\Users\Michel\Desktop\Code\C#\GradeManager\GradeManager\obj\Debug\GradeManager.Properties.Resources.resources
+C:\Users\Michel\Desktop\Code\C#\GradeManager\GradeManager\obj\Debug\GradeManager.csproj.GenerateResource.Cache
+C:\Users\Michel\Desktop\Code\C#\GradeManager\GradeManager\obj\Debug\GradeManager.csproj.CoreCompileInputs.cache
+C:\Users\Michel\Desktop\Code\C#\GradeManager\GradeManager\obj\Debug\GradeManager.exe
+C:\Users\Michel\Desktop\Code\C#\GradeManager\GradeManager\obj\Debug\GradeManager.pdb
+C:\Users\Michel\Desktop\Code\C#\GradeManager\GradeManager\obj\Debug\GradeManager.StudentManagementForm.resources
+C:\Users\Michel\Desktop\Code\C#\GradeManager\GradeManager\obj\Debug\GradeManager.GradeManagementForm.resources
